@@ -16,7 +16,6 @@
 
 <script lang="ts">
 import Editor from './Editor.vue'
-// import 'medium-editor/dist/css/medium-editor.css'
 
 export default {
   name: 'App',
